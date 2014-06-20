@@ -15,7 +15,7 @@ def draw_card( outfile, card_text, attribution, bg=black, fg=white ):
 
     x = 85
     y = 130
-    for line in textwrap.wrap(card_text, 20):
+    for line in textwrap.wrap(card_text, 19):
         draw.text((x,y), line, fg, font=text_font)
         y += 85
 
