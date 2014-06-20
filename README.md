@@ -6,8 +6,8 @@ Against Deqmandity"**. Cards Against Decmandity was a project we made as an
 early wedding gift to our good friends Declan and Amanda.
 
 See [my blog post about
-it](http://www.devjustinian.com/2014/06/cards-against-deqmandity.html) for more
-info.
+it](http://www.devjustinian.com/2014/06/cards-against-deqmandity.html) for
+pictures and more info.
 
 To generate your own images, fill whites.csv and blacks.csv with your white
 and black card descriptions, and run ``drawcards.py``.
